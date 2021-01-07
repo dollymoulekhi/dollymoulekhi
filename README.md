@@ -27,7 +27,7 @@ Aspiring **Data Analyst** with a Bachelor's degree in Mechanical Engineering and
 
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dmoulekhi/) ||
-[:email:MAIL](mailto:dollymoulekhi97@gmail.com) || [:globe_with_meridians:Website](https://iamrehan.netlify.app/)
+[:email:MAIL](mailto:dollymoulekhi97@gmail.com) 
 
 
 ### Interesting stats
