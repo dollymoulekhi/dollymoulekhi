@@ -12,6 +12,7 @@ Aspiring **Data Analyst** with a Bachelor's degree in Mechanical Engineering and
 
 ## Programming
 - **Python**
+- **SQL**
 
 ## What I know:
 - **Numpy**
