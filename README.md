@@ -13,16 +13,22 @@ Aspiring **Data Analyst** with a Bachelor's degree in Mechanical Engineering and
 ## Programming
 - **Python**
 - **SQL**
+- **HTML5**
 
 ## What I know:
+- **Google Data Studio**
+- **Big Query**
+- **Cloud DataPrep**
 - **Numpy**
 - **Pandas**
 - **Matplotlib**
+- **Advance Excel**
 
 ## Tools:
 
 - **Jupyter Notebook**
 - **Google Collab**
+- **Visual Studio Code**
 
 
 
