@@ -8,7 +8,7 @@
 
 
 ## About me :mortar_board:
-Aspiring **Data Analyst** with a Bachelor's degree in Mechanical Engineering and looking to enhance my professional experience with an IT company specializing in Data analysis and data science. Other than spending my time on jupyter notebook and Google Collab, I love to read about **space and astronomy.**
+Aspiring **Machine Learning Engineer** with a Bachelor's degree in Mechanical Engineering and looking to enhance my professional experience with an IT company specializing in Machine Learning  and data science. Other than spending my time on jupyter notebook and Google Collab, I love to read about **space and astronomy.**
 
 ## Programming
 - **Python**
@@ -23,6 +23,7 @@ Aspiring **Data Analyst** with a Bachelor's degree in Mechanical Engineering and
 - **Pandas**
 - **Matplotlib**
 - **Advance Excel**
+- **MongoDB**
 
 ## Tools:
 
