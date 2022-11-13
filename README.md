@@ -8,14 +8,16 @@
 
 
 ## About me :mortar_board:
-Aspiring **Machine Learning Engineer** with a Bachelor's degree in Mechanical Engineering and looking to enhance my professional experience with an IT company specializing in Machine Learning  and data science. Other than spending my time on jupyter notebook and Google Collab, I love to read about **space and astronomy.**
+**Data Scientist** with a Bachelor's degree in Mechanical Engineering and looking to enhance my professional experience with an IT company specializing in Machine Learning  and data science. Other than spending my time on jupyter notebook and Google Collab, I love to read about **space and astronomy.**
 
 ## Programming
+-**Machine Learning**
 - **Python**
 - **SQL**
 - **HTML5**
 
 ## What I know:
+-**Machine Learning**
 - **Google Data Studio**
 - **Big Query**
 - **Cloud DataPrep**
