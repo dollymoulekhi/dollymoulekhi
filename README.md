@@ -8,7 +8,7 @@
 
 
 ## About me :mortar_board:
-**Data Scientist** having more than 2 years of experince in Machine Learning, Supervised and Unsupervised Learning. I have a great command on Recommendation and Prediction systems and building a fully automated pipelines. I have done my  Bachelor's degree in Mechanical Engineering. Other than spending my time on jupyter notebook and Google Collab, I love to read about **Science and Technology.**
+**Data Scientist** having more than 2 years of experince in Machine Learning, Supervised and Unsupervised Learning. I have a great command on Recommendation and Prediction systems and building fully automated pipelines. I have done my  Bachelor's degree in Mechanical Engineering. Other than spending my time on jupyter notebook and Google Collab, I love to read about **Science and Technology.**
 
 ## Programming:
 - **Machine Learning**
