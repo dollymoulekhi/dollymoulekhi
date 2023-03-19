@@ -8,7 +8,7 @@
 
 
 ## About me :mortar_board:
-**Data Scientist** with a Bachelor's degree in Mechanical Engineering and looking to enhance my professional experience with an IT company specializing in Machine Learning  and data science. Other than spending my time on jupyter notebook and Google Collab, I love to read about **space and astronomy.**
+**Data Scientist** having more than 2 years of experince in Machine Learning, Supervised Leraning, Unsupervised Learning. I have a great command on Recommendation and Prediction systems. I have done my  Bachelor's degree in Mechanical Engineering.Other than spending my time on jupyter notebook and Google Collab, I love to read about **Science and Technology.**
 
 ## Programming
 - **Machine Learning**
@@ -23,6 +23,7 @@
 - **Cloud DataPrep**
 - **Numpy**
 - **Pandas**
+- **CleverTap**
 - **Matplotlib**
 - **Advance Excel**
 - **MongoDB**
@@ -32,6 +33,13 @@
 - **Jupyter Notebook**
 - **Google Collab**
 - **Visual Studio Code**
+
+## Operating Systmes:
+
+- **Linux**
+- **Windows**
+- **MacOS**
+
 
 
 
