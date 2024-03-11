@@ -86,5 +86,8 @@ I'm Dolly, a Data Scientist with over 2 years of experience in Machine Learning,
 - [Email](mailto:moulekhideepa@gmail.com)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dollymoulekhi&" alt="dollymoulekhi" /></p>
+
+
 
 Thanks for stopping by! 😁
