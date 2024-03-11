@@ -2,11 +2,6 @@
 
 # I am Dolly 🚀
 
-<div align="center">
-	<img src = "https://images.unsplash.com/photo-1536697246787-1f7ae568d89a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="header" width="350">
-</div>
-
-
 ## About me :mortar_board:
 **Data Scientist** having more than 2 years of experince in Machine Learning, Supervised and Unsupervised Learning. I have a great command on Recommendation and Prediction systems and building fully automated pipelines. I have done my  Bachelor's degree in Mechanical Engineering. Other than spending my time on jupyter notebook and Google Collab, I love to read about **Science and Technology.**
 
