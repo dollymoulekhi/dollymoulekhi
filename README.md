@@ -41,7 +41,8 @@
 
 ## Reach me 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dmoulekhi/) ||
-[:email:MAIL](mailto:dollymoulekhi97@gmail.com) 
+[:email:MAIL](mailto:dollymoulekhi97@gmail.com) ||
+[:[Kaggle] (https://kaggle.com/dolly moulekhi)
 
 
 ### Interesting stats
