@@ -55,7 +55,7 @@ I'm Dolly, a Data Scientist with over 2 years of experience in Machine Learning,
 
 ## Portfolio 🌐
 
-- Check out my projects [here](https://dollymoulekhi.github.io/my/)
+- Check out my projects [here](https://dollymoulekhi.github.io/portfolio/)
 
 
 ## Interesting Stats 📊
